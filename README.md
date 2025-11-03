@@ -1,6 +1,6 @@
 # About Me
 
-I'm currently a student at **Polytechnic University of the Philippines – Taguig**, with a growing passion for both development and design. I enjoy diving into new technologies and expanding my creative and technical skills.
+I’m a student at Polytechnic University of the Philippines – Taguig with a growing passion for both development and design. I love exploring new technologies, learning new things, and finding creative ways to bring ideas to life. Always excited to build, design, and grow along the way!
 
 ---
 
